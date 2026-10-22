@@ -4,7 +4,6 @@ An end-to-end Business Intelligence and predictive analytics dashboard built wit
 
 It bridges the gap between traditional BI reporting and data science by integrating **Scikit-Learn** directly into Power BI to generate machine learning feature importance charts.
 
-![Dashboard Overview](images/page1.png)
 
 ## 📑 Table of Contents
 - [Dashboard Architecture](#dashboard-architecture)
